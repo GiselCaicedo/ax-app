@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="72"
+   height="51"
+   viewBox="0 0 72 51"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="home.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="6.725"
+     inkscape:cx="60.074349"
+     inkscape:cy="24.312268"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="370"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!-- Contenedor principal con rotación -->
+  <g
+     transform="matrix(0.46578271,-0.08447369,0.08213006,0.47907406,1.7518864,-0.75747874)"
+     id="g1"
+     style="stroke-width:4.87869;stroke-dasharray:none">
+    <!-- Techo y paredes -->
+    <path
+       d="M 60,25 25,55 v 40 a 5,5 0 0 0 5,5 H 50 V 75 h 20 v 25 h 20 a 5,5 0 0 0 5,-5 V 55 Z"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="6"
+       stroke-linejoin="round"
+       id="path1"
+       style="stroke-width:4.87869;stroke-dasharray:none" />
+    <!-- Puerta -->
+    <rect
+       x="50"
+       y="75"
+       width="20"
+       height="25"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="6"
+       id="rect1"
+       style="stroke-width:4.87869;stroke-dasharray:none" />
+  </g>
+</svg>
